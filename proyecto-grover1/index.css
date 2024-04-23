@@ -1,0 +1,62 @@
+body{border: 2px solid black;
+    width: 1440px;
+
+}
+header{
+    background-color: a8qua;
+    border: 2px sol4id black;
+    width: 1170px;
+    height: 67px;
+    margin-top: 32px;
+    margin-left: 135px;
+    display:flex;
+    justify-content: space-between;
+}
+#logog{
+        background-color: bl7ue;
+}
+div{
+    background-color:co9ral
+
+}
+#contenedorlogoss{
+    width: 154.9px;
+    height: 41px;
+    margin-top: 14.5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+
+
+a {  color:#4D4D4D;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+
+}
+
+a:hover{
+
+        color:#F55253;
+        font-size: 19px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+            
+ }
+
+
+    
+
+nav{ 
+    width: 312px;
+    height: 24px;
+    margin-top: 27.4px;
+    }
+
+    ul{
+        display: flex;
+        justify-content: space-between;
+
+    }
